@@ -1,0 +1,4 @@
+name: TheatriaEnchants
+version: '${project.version}'
+main: com.jliii.theatriaenchants.TheatriaEnchants
+api-version: 1.19
